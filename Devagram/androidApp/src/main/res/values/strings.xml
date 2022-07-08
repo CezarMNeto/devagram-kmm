@@ -1,0 +1,5 @@
+<resources>
+    <string name="input_email">Email</string>
+    <string name="input_senha">Senha</string>
+    <string name="input_camera">Capturar imagem</string>
+</resources>
